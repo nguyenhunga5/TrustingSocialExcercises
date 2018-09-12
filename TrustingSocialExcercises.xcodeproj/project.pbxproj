@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1A0BE72021490DAD00D02D6F /* TSNetworkTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0BE71F21490DAD00D02D6F /* TSNetworkTestCase.swift */; };
 		1A2AEB8B2147E6FD008D985C /* TSInforTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2AEB8A2147E6FD008D985C /* TSInforTableViewCell.swift */; };
+		1A7A4BEF21491636008CBDDD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1A7A4BEE21491636008CBDDD /* README.md */; };
 		1A97377821476C62003E8BA0 /* TSBaseEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A97377721476C62003E8BA0 /* TSBaseEntity.swift */; };
 		1A97377921476C62003E8BA0 /* TSBaseEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A97377721476C62003E8BA0 /* TSBaseEntity.swift */; };
 		1A97377B21476D15003E8BA0 /* TSLoanProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A97377A21476D15003E8BA0 /* TSLoanProvider.swift */; };
@@ -50,6 +51,7 @@
 /* Begin PBXFileReference section */
 		1A0BE71F21490DAD00D02D6F /* TSNetworkTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TSNetworkTestCase.swift; sourceTree = "<group>"; };
 		1A2AEB8A2147E6FD008D985C /* TSInforTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TSInforTableViewCell.swift; sourceTree = "<group>"; };
+		1A7A4BEE21491636008CBDDD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1A97377721476C62003E8BA0 /* TSBaseEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TSBaseEntity.swift; sourceTree = "<group>"; };
 		1A97377A21476D15003E8BA0 /* TSLoanProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TSLoanProvider.swift; sourceTree = "<group>"; };
 		1A97377D21476DE1003E8BA0 /* TSBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TSBank.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 		1ABB15DD2146D799004DBC87 = {
 			isa = PBXGroup;
 			children = (
+				1A7A4BEE21491636008CBDDD /* README.md */,
 				1ABB15E82146D799004DBC87 /* TrustingSocialExcercises */,
 				1ABB15FD2146D79B004DBC87 /* TrustingSocialExcercisesTests */,
 				1ABB15E72146D799004DBC87 /* Products */,
@@ -289,6 +292,7 @@
 			files = (
 				1A9737902147CB4C003E8BA0 /* MockData in Resources */,
 				1ABB15F42146D79B004DBC87 /* LaunchScreen.storyboard in Resources */,
+				1A7A4BEF21491636008CBDDD /* README.md in Resources */,
 				1ABB15F12146D79B004DBC87 /* Assets.xcassets in Resources */,
 				1ABB15EF2146D799004DBC87 /* Main.storyboard in Resources */,
 			);

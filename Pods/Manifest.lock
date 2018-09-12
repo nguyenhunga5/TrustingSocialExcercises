@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - ObjectMapper (3.3.0)
+  - TextFieldEffects (1.3.3)
+  - TPKeyboardAvoiding (1.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - ObjectMapper
+  - TextFieldEffects (from `https://github.com/raulriera/TextFieldEffects.git`, branch `swift-4.0`)
+  - TPKeyboardAvoiding
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - ObjectMapper
+    - TPKeyboardAvoiding
+
+EXTERNAL SOURCES:
+  TextFieldEffects:
+    :branch: swift-4.0
+    :git: https://github.com/raulriera/TextFieldEffects.git
+
+CHECKOUT OPTIONS:
+  TextFieldEffects:
+    :commit: c98c7971400cda31ac03afb50816ebc11b3c43db
+    :git: https://github.com/raulriera/TextFieldEffects.git
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  TextFieldEffects: d34f25b38e8c2eb41e126ea3d879c6015abfb4fc
+  TPKeyboardAvoiding: cb69d5ddbe90ce0170e4bc2db1e5e41d4a3ad9a4
+
+PODFILE CHECKSUM: 8d6e24c8713c3b7fdc4ddd7cc197c2c449eec1ec
+
+COCOAPODS: 1.6.0.beta.1
